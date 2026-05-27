@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Full Stack & Backend Engineer</b> · Chandigarh, India<br/>
-  Final year CSE grad · Building production-grade web apps · Open to SDE / Full Stack / Backend roles
+  Full Stack Developer · Building production-grade web apps · Open to SDE / Full Stack / Backend roles
 </p>
 
 <p align="center">
