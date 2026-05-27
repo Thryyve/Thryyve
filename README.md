@@ -22,7 +22,7 @@ I'm a final year Computer Science student who builds full-stack and backend syst
 - 🌱 Exploring: system design, distributed systems, and backend scalability
 - 💬 Ask me about: Next.js, Node.js, PostgreSQL, REST API design, real-time systems with Socket.io
 - 📫 Reach me: **sinhaaayam12@gmail.com**
-- ⚡ Fun fact: all three of my projects are deployed and production-ready
+- ⚡ Fun fact: I am a code archaeologist: I dig through old code and regret it.
 
 ---
 
