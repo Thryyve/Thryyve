@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Aayam Sinha 👋</h1>
 
 <p align="center">
-  <b>Full Stack & Backend Engineer</b> · Chandigarh, India<br/>
+  <b>Full Stack & Backend Engineer</b> · New Delhi, India<br/>
   Full Stack Developer · Building production-grade web apps · Open to SDE / Full Stack / Backend roles
 </p>
 
